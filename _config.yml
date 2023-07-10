@@ -1,0 +1,55 @@
+# change the followings to match your Github username and repo name
+baseurl: "" # the name of your github repo
+url: "http://localhost:4000" # the url of your github pages
+
+# site information used in page title, meta data etc.
+title: "Binary Reads"
+description: An Intellectual, Truthful and Chivalrous Approach to Digital in Byte-sized Chunks
+
+# color theme for links
+theme-color: indigo # indigo|yellow|pink|green|stone|
+
+# homepage information
+author: Binary Reads
+author-bio: An Intellectual, Truthful and Chivalrous Approach to Digital in Byte-sized Chunks # change to false to hide
+author-image: logo.png  # file must be in the /assets/img/ folder
+
+# navigation menu
+show-nav-menu: true
+
+nav-menu:
+- text: About
+  permalink: about
+- text: Bitcoin
+  permalink: bitcoin
+- text: Articles
+  permalink: articles
+
+# use false to turn off any social media links
+twitter: false
+facebook: false
+instagram: false
+github: https://github.com/meezaan
+linkedin: https://linkedin.com/in/meezaan
+medium: false
+google-scholar: false
+email: false
+
+# footer information
+footer-msg: "M A Wal-Ikram"
+footer-msg-link: https://github.com/meezaan
+
+sponsors:
+  - name: Mamluk - Digital Knighthood
+    link: https://mamluk.net
+    image: mamluk-logo.svg
+  - name: 7x - APIs for Developers by Developers
+    link: https://7x.ax
+    image: 7x-logo.png
+
+# google analytics
+google-analytics: G-ZPT1XRVTVL
+
+# jekyll plugins - no need to change
+plugins:
+    - jekyll-seo-tag
