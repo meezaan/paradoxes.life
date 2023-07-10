@@ -31,6 +31,6 @@ So you interviewed a scientist, but you're asking them to be a firefighter.
 What do you think the motivation of your new employee is going to be? How long do you think they're going to stay with your company?
 What do you think they're going to tell their friends and colleagues about your company?
 
-Honest is the best policy.
+Honesty is the best policy.
 
 Are you honest in your interviews?
