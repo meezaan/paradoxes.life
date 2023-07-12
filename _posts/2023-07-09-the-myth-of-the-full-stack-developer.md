@@ -28,13 +28,13 @@ Isnad (إِسْنَاد) in Arabic or Upanishad (उपनिषद्) in Sansk
 It should already be quite obvious that by calling a full-stack developer a myth, we are in fact affirming that such 
 developers or engineers exist. So why do people still make this statement? 
 
-Binary alert - there are 2 kinds of companies working with technology these days:
+Binary alert - there are 2 kinds of companies (and by definition the people that work there) dealing with technology these days (there are more, but the website is called Binary Reads, right?):
 
   1. Those that formed or inherited their IT teams or departments and their IT Leadership from Managed Service Providers (MSPs) - 
-  I don't need to name these MSPs, but you know who they are. These companies are the ones that still want to be delivery centric. Their
-  software teams are _managed_ by delivery managers, and their income was based on the number of people they could bill to their clients.
+  I don't need to name these MSPs, but you know who they are. These companies are the ones that still want to be delivery centric without being cognizant of what they deliver. Their
+  software teams are _managed_ by delivery managers, and their income was based (only in the case of the MSP) on the number of people they could bill to their clients on an hourly or daily basis.
   These companies were notorious (and still are, but we are not talking about MSPs for the sake of this article) for 'creating' a separate
-  job role for each and every capability that a software engineer needs to ship anything that delivers real customer value. And so we 
+  job role for each and every capability that a software engineer needs to ship anything that delivers real customer value. **In other words, this is a largely quantitative approach to quality software engineering.** And so we 
   have a back-end developer, a front-end developer, an Operations Engineer, a DevOps Engineer, a Database Administrator, a Database Engineer...
   you get the gist. And so, in these companies, the myth (for once we can entertain the modern definition) of the full-stack developer is perpetuated.
   2. Those that formed their IT teams or departments from the ground up. These companies understand that software engineering is not a 
