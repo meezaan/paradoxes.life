@@ -13,7 +13,7 @@ let's take a couple of minutes understand what a myth actually is, and how the a
 
 Etymologically, the word _myth_ in English comes from the Greek word _mythos_, which means "report" or "tale" or "true narrative", 
 referring not only to the means by which it was transmitted but also to its being rooted in *T*ruth. Of course, as time unfolds and 
-we stumble upon the profanity that modern times brings with it, we have come to associate the word _myth_ with something that is 
+we stumble upon the profanity that modernity brings with it, we have come to associate the word _myth_ with something that is 
 false, or something that is not true. But that is not what it means. In fact, a modern dictionary gives 2 meanings for the word myth:
 
   1. A traditional story, especially one concerning the early history of a people or explaining some natural or social phenomenon, and typically involving supernatural beings or events.
@@ -22,7 +22,7 @@ false, or something that is not true. But that is not what it means. In fact, a 
 So the modern definition can be classified as nothing more than a deformation of what the actual word means (not withstanding 
 the difference between the Greek words Mythos and Logos, but that's another _form of binary philosophy / theosophy_ we eon't explore); it, in fact, appears to be
 a negation of the truth that the original Greek word actually purported. And as mythos is how knowledge was transmitted (and still is the most
-effective way of transmitting it), for those who understand the religious efficacy of mythos, one might even corelate it with the use of the word
+effective way of transmitting it), for those who understand the religious efficacy of mythos, one might even co-relate it with the use of the word
 isnad (إِسْنَاد) in Arabic or Upanishad (उपनिषद्) in Sanskrit. But that is a topic for another day.
 
 It should already be quite obvious that by calling a full-stack developer a myth, we are in fact affirming that such 
