@@ -23,7 +23,7 @@ So the modern definition can be classified as nothing more than a deformation of
 the difference between the Greek words Mythos and Logos, but that's another _form of binary philosophy / theosophy_ we eon't explore); it, in fact, appears to be
 a negation of the truth that the original Greek word actually purported. And as mythos is how knowledge was transmitted (and still is the most
 effective way of transmitting it), for those who understand the religious efficacy of mythos, one might even co-relate it with the use of the word
-isnad (إِسْنَاد) in Arabic or Upanishad (उपनिषद्) in Sanskrit. But that is a topic for another day.
+Isnad (إِسْنَاد) in Arabic or Upanishad (उपनिषद्) in Sanskrit. But that is a topic for another day.
 
 It should already be quite obvious that by calling a full-stack developer a myth, we are in fact affirming that such 
 developers or engineers exist. So why do people still make this statement? 
