@@ -19,7 +19,7 @@ false, or something that is not true. But that is not what it means. In fact, a 
   1. A traditional story, especially one concerning the early history of a people or explaining some natural or social phenomenon, and typically involving supernatural beings or events.
   2. A widely held but false belief or idea.
 
-So the modern definition can be classified as nothing more than a deformation of what the actual word means (not withstanding 
+So the modern definition can be classified as nothing more than a deformation of what the actual word means (notwithstanding 
 the difference between the Greek words Mythos and Logos, but that's another _form of binary philosophy / theosophy_ we won't explore); it, in fact, appears to be
 a negation of the truth that the original Greek word actually purported. And as mythos is how knowledge was transmitted (and still is the most
 effective way of transmitting it), for those who understand the religious efficacy of mythos, one might even co-relate it with the use of the word
