@@ -42,12 +42,14 @@ Binary alert - there are 2 kinds of companies (and by definition the people that
   real customer value with quality and on-time is to have engineers who can work on the entire stack, and not just a part of it.
 
 You'll find that the first kind of companies are the ones that are still struggling to deliver value to their customers and they 
-have excessively large Software departments (they're also usually large enterprises with little intertia).
+have excessively large Software departments (they're also usually large enterprises with little inertia).
 
 The second kind of companies are the ones that are able to deliver value to their customers, and they have small, nimble, and
 highly effective Software departments (they're usually startups or small to medium-sized enterprises).
 
 So we might say that this a statement made in error by those who are victimised by the baggage of MSPs and their ways of working.
+
+But not all large enterprises have to be like this.
 
 We'll leave the discussion around I-shaped, T-shaped and E-shaped developers for another day, too.
 
