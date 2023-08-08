@@ -4,10 +4,12 @@ title: Hiring for DevOps is a Symptom of an Ailing Engineering Culture
 tags: devops leadership people software engineering
 ---
 
-<img src="/assets/devops.png" alt="DevOps" />
+<img src="/assets/img/devops.png" alt="DevOps" />
 
 Let's face it, 2023 is the reign of quantity (if you're interested in the metaphysical explanation, 
-https://en.wikipedia.org/wiki/The_Reign_of_Quantity_and_the_Signs_of_the_Times is a must-read). 
+<a href="https://en.wikipedia.org/wiki/The_Reign_of_Quantity_and_the_Signs_of_the_Times" target="_blank">
+The Reign of Quantity and the Signs of the Times
+</a> by René Guénon is a must-read). 
 Most people want to be data-driven because it's trendy (whether that really changes anything for the better is irrelevant, unfortunately). 
 If you've read the article on <a href="https://binaryreads.com/2023/07/09/the-myth-of-the-full-stack-developer.html">The Myth of the Full Stack Developer</a>, you are probably 
 aware of how the idea that *more engineers are better* came about.
