@@ -16,7 +16,7 @@ aware of how the idea that *more engineers are better* came about.
 
 DevOps is simply a capability. And if you are hiring for DevOps engineers or building a DevOps team, you've likely missed the point. In fact, having to hire separate people
 to fill the role of DevOps is a symptom of an ailing engineering culture, and as a good leader, you should be looking to fix the culture. Because like the majority of workplace 
-problems, the solutions don't like in data or metrics or quantitative aspects, but they lie in the people, their culture, and their values (the qualitative aspects).
+problems, the solutions don't lie in data or metrics or quantitative aspects, but they lie in the people, their culture, and their values (the qualitative aspects).
 
 Let's qualify the statement that **DevOps is a Capability**, not a role.
 
