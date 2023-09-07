@@ -45,7 +45,7 @@ And this is where Aybak was born. Aybak will save:
 
 1. Your time. The code is all there for you to get the IPs from your cluster, with GitHub Actions to update your HA Proxy load balancer automatically.
 2. The carbon footprint of running 7 load balancers (or VMs) vs running 1 VM in each region.
-3. The amount of money involved. If we have just 2 regions and each load balancer or virtual machine costs \$30, we are talking about spending \$420 vs \$60 per month. Ergo, a saving of \$350 per month. This translates into \$4,200 per year.
+3. The amount of money involved. If we have just 2 regions and each load balancer or virtual machine costs USD 30, we are talking about spending USD 420 vs USD 60 per month. Ergo, a saving of USD 350 per month. This translates into USD 4,200 per year.
 4. Now, this is not a lot of money, but think of all the villages and towns in Africa where people don't have the money to dig a well for fresh water. Perhaps you could donate this money there instead of using a 'Cloud Native' service and contribute to improving the lives of hundreds of thousands of people.
 
 There are, of course, other considerations.
