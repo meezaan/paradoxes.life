@@ -29,7 +29,7 @@ your ingress controller (which is a layer 7 component).
 As your cluster autoscales and adds more worker nodes, the Kube Cloud Controller Manager (KCCM) from the cloud 
 provider will update the load balancer with IP addresses of the new nodes. This is all good, until you hit the connection 
 limit on the cloud provider's load balancer. Once you hit the limit, it's effectively game over unless your intervene manually 
-by adding another cloud native load balancer and updating your DNS enstries. 
+by adding another cloud native load balancer and updating your DNS entries. 
 
 As this is a managed service, you can't tune it for optimal performance.  
 
@@ -45,7 +45,7 @@ And this is where Aybak was born. Aybak will save:
 
 1. Your time. The code is all there for you to get the IPs from your cluster, with GitHub Actions to update your HA Proxy load balancer automatically.
 2. The carbon footprint of running 7 load balancers (or VMs) vs running 1 VM in each region.
-3. The amount of money involved. If we have just 2 regions and each load balancer or virtual machine costs $30, we are talking about spending $420 vs $60 per month. Ergo, a saving of $350 per month. This translates into $4,200 per year.
+3. The amount of money involved. If we have just 2 regions and each load balancer or virtual machine costs \$30, we are talking about spending \$420 vs \$60 per month. Ergo, a saving of \$350 per month. This translates into \$4,200 per year.
 3. Now, this is not a lot of money, but think of all the villages and towns in Africa where people don't have the money to dig a well for fresh water. Perhaps you could donate this money there instead of using a 'Cloud Native' service and contribute to improving the lives of hundreds of thousands of people.
 
 There are, of course, other considerations.
