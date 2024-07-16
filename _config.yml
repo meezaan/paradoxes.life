@@ -27,15 +27,15 @@ nav-menu:
 twitter: false
 facebook: false
 instagram: false
-github: https://github.com/meezaan
+github: false
 linkedin: false
 medium: false
 google-scholar: false
 email: false
 
 # footer information
-footer-msg: "M A Wal-Ikram"
-footer-msg-link: https://github.com/meezaan
+footer-msg: "Paradoxes of Life"
+footer-msg-link: https://paradoxes.life
 
 sponsors:
   - name: Mamluk - Digital Knighthood
