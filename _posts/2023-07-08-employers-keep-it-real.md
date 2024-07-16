@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Employers - Keep it Real During an Interview
-tags: leadership people employment interviews
+tags: leadership employment
 ---
 
-<img src="/assets/img/employers-keep-it-real.png" 
+<img src="assets/img/employers-keep-it-real.png" 
 alt="Employers - Keep it Real During an Interview" />
 There are two types of employers - ones who tell the truth during an interview, and ones who don't.
 
