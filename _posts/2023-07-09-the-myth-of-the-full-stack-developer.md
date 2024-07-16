@@ -4,7 +4,7 @@ title: The Myth of the Full Stack Developer
 tags: technology 
 ---
 
-<img src="assets/img/myth-of-full-stack-developer.png"
+<img src="/assets/img/myth-of-full-stack-developer.png"
 alt="The myth of the full stack developer" />
 
 Perhaps you have heard this statement before - a full-stack developer is a _myth_. If you are one, it might even invoke some kind of

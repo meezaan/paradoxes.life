@@ -4,7 +4,7 @@ title: Hiring for DevOps is a Symptom of an Ailing Engineering Culture
 tags: technology
 ---
 
-<img src="assets/img/devops.png" alt="DevOps" />
+<img src="/assets/img/devops.png" alt="DevOps" />
 
 Let's face it, 2023 is the reign of quantity (if you're interested in the metaphysical explanation, 
 <a href="https://en.wikipedia.org/wiki/The_Reign_of_Quantity_and_the_Signs_of_the_Times" target="_blank">
