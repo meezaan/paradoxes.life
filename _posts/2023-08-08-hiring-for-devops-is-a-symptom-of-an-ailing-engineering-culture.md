@@ -30,7 +30,7 @@ A little step back in time will help us understand the catalysts of the 'DevOps'
 The first is the evolution of Agile software development. I use this carefully because in various organisations around the world, agile is still used as a verb, 
 so the understanding is rudimentary, to say the least. In particular, it's the definition of customer value within user stories that enforces a DevOps mindset. Each user story
 must deliver customer value. A story is not complete until it is deployed in production. This means that to efficiently deliver customer value, a developer must be able to 
-do the part of development as well as operations, because a story that is not productionised does not deliver any value. To do this, we need developers with the DevOps capability. Having 
+do both development and operations, because a story that is not productionised does not deliver any value. To do this, we need developers with the DevOps capability. Having 
 different people do jobs or developer and operations in the same team is tantamount to a mini-waterfall - it's pretence and does not work.
 
 The second is the coining of the paradigm 'You build it, you run it' by Amazon CTO Werner Vogels in 2016. It means that a developer is now responsible for the lifecycle of the product 
