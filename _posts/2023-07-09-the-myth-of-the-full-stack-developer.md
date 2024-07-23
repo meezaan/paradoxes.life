@@ -28,7 +28,7 @@ Isnad (إِسْنَاد) in Arabic or Upanishad (उपनिषद्) in Sansk
 It should already be quite obvious that by calling a full-stack developer a myth, we are in fact affirming that such 
 developers or engineers exist. So why do people still make this statement? 
 
-Binary alert - there are 2 kinds of companies (and by definition the people that work there) dealing with technology these days (there are more, but the website is called Binary Reads, right?):
+Binary alert - there are 2 kinds of companies (and by definition the people that work there) dealing with technology these days (there are more, but it's simpler to explain our conundrum with just two):
 
   1. Those that formed or inherited their IT teams or departments and their IT Leadership from Managed Service Providers (MSPs) - 
   I don't need to name these MSPs, but you know who they are. These companies are the ones that still want to be delivery centric without being cognizant of what they deliver. Their
