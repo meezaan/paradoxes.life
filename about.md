@@ -4,9 +4,9 @@ title: About
 permalink: about
 ---
 
-Binary Reads is all about trying to understand digital problems through a traditional, human lens.
+Paradoxes.life is all about trying to the paradoxes of modern life through a traditional lens.
 
-It's there to remind us of what is really important, even in digital interactions, in the hope that it 
+It's there to remind us of what is Truly important, even in modern interactions, in the hope that it 
 may help us become better human beings, leaders, engineers, and above all, better at serving God and His creation. 
 
-Binary Reads is built with <a href="https://github.com/harrywang/tailpages" target="_blank">Tail Pages</a> by Harry Wang.
+Paradoxes.life is built with <a href="https://github.com/harrywang/tailpages" target="_blank">Tail Pages</a> by Harry Wang.
