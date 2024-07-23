@@ -11,7 +11,7 @@ Let's face it, 2023 is the reign of quantity (if you're interested in the metaph
 The Reign of Quantity and the Signs of the Times
 </a> by René Guénon is a must-read). 
 Most people want to be data-driven because it's trendy (whether that really changes anything for the better is irrelevant, unfortunately). 
-If you've read the article on <a href="https://binaryreads.com/2023/07/09/the-myth-of-the-full-stack-developer.html">The Myth of the Full Stack Developer</a>, you are probably 
+If you've read the article on <a href="https://paradoxes.life/2023/07/09/the-myth-of-the-full-stack-developer.html">The Myth of the Full Stack Developer</a>, you are probably 
 aware of how the idea that *more engineers are better* came about.
 
 DevOps is simply a capability. And if you are hiring for DevOps engineers or building a DevOps team, you've likely missed the point. In fact, having to hire separate people
